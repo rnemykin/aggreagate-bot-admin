@@ -1,4 +1,4 @@
-package ru.rnemykin.aggregatebotadmin
+package ru.rnemykin.aggregateBotAdmin
 
 import org.junit.Test
 import org.junit.runner.RunWith
